@@ -1,0 +1,67 @@
+symbol,name,sector,location,year,month,date,CIK,year_started
+AFL,Aflac,Life & Health Insurance,"Columbus, Georgia",1999,5,28,0000004977,1955
+ALL,Allstate,Property & Casualty Insurance,"Northfield Township, Illinois",1995,7,13,0000899051,1931
+AXP,American Express,Consumer Finance,"New York City, New York",1976,6,30,0000004962,1850
+AIG,American International Group,Property & Casualty Insurance,"New York City, New York",1980,3,31,0000005272,1919
+AMP,Ameriprise Financial,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005,10,3,0000820027,1894
+AON,Aon,Insurance Brokers,"London, UK",1996,4,23,0000315293,1982
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers,"Rolling Meadows, Illinois",2016,5,31,0000354190,1927
+AIZ,Assurant,Multi-line Insurance,"New York City, New York",2007,4,10,0001267238,1892
+BAC,Bank of America,Diversified Banks,"Charlotte, North Carolina",1976,6,30,0000070858,1998
+WRB,Berkley,Property & Casualty Insurance,"Greenwich, Connecticut",2019,12,5,0000011544,1967
+BRK-B,Berkshire Hathaway,Multi-Sector Holdings,"Omaha, Nebraska",2010,2,16,0001067983,1839
+BLK,BlackRock,Asset Management & Custody Banks,"New York City, New York",2011,4,4,0001364742,1988
+BK,BNY Mellon,Asset Management & Custody Banks,"New York City, New York",1995,3,31,0001390777,1784
+BRO,Brown & Brown,Insurance Brokers,"Daytona Beach, Florida",2021,9,20,0000079282,1939
+COF,Capital One,Consumer Finance,"Tysons Corner, Virginia",1998,7,1,0000927628,1994
+CBOE,Cboe Global Markets,Financial Exchanges & Data,"Chicago, Illinois",2017,3,1,0001374310,1973
+SCHW,Charles Schwab Corporation,Investment Banking & Brokerage,"Westlake, Texas",1997,6,2,0000316709,1971
+CB,Chubb Limited,Property & Casualty Insurance,"Zurich, Switzerland",2010,7,15,0000896159,1985
+CINF,Cincinnati Financial,Property & Casualty Insurance,"Fairfield, Ohio",1997,12,18,0000020286,1950
+C,Citigroup,Diversified Banks,"New York City, New York",1988,5,31,0000831001,1998
+CFG,Citizens Financial Group,Regional Banks,"Providence, Rhode Island",2016,1,29,0000759944,1828
+CME,CME Group,Financial Exchanges & Data,"Chicago, Illinois",2006,8,11,0001156375,1848
+CMA,Comerica,Diversified Banks,"Dallas, Texas",1995,12,1,0000028412,1849
+DFS,Discover Financial,Consumer Finance,"Riverwoods, Illinois",2007,7,2,0001393612,1985
+RE,Everest Re,Reinsurance,"Hamilton, Bermuda",2017,6,19,0001095073,1973
+FDS,FactSet,Financial Exchanges & Data,"Norwalk, Connecticut",2021,12,20,0001013237,1978
+FITB,Fifth Third Bank,Regional Banks,"Cincinnati, Ohio",,,,0000035527,1858
+FRC,First Republic Bank,Regional Banks,"San Francisco, California",2019,1,2,0001132979,1985
+BEN,Franklin Templeton,Asset Management & Custody Banks,"San Mateo, California",,,,0000038777,1947
+GL,Globe Life,Life & Health Insurance,"McKinney, Texas",1989,4,30,0000320335,1900
+GS,Goldman Sachs,Investment Banking & Brokerage,"New York City, New York",2002,7,22,0000886982,1869
+HIG,Hartford (The),Property & Casualty Insurance,"Hartford, Connecticut",1957,3,4,0000874766,1810
+HBAN,Huntington Bancshares,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,,,0000049196,1866
+ICE,Intercontinental Exchange,Financial Exchanges & Data,"Atlanta, Georgia",2007,9,26,0001571949,2000
+IVZ,Invesco,Asset Management & Custody Banks,"Atlanta, Georgia",2008,8,21,0000914208,1935
+JPM,JPMorgan Chase,Diversified Banks,"New York City, New York",1975,6,30,0000019617,2000
+KEY,KeyCorp,Regional Banks,"Cleveland, Ohio",1994,3,1,0000091576,1825
+LNC,Lincoln Financial,Multi-line Insurance,"Radnor, Pennsylvania",1976,6,30,0000059558,1905
+L,Loews Corporation,Multi-line Insurance,"New York City, New York",,,,0000060086,1959
+MTB,M&T Bank,Regional Banks,"Buffalo, New York",2004,2,23,0000036270,1856
+MKTX,MarketAxess,Financial Exchanges & Data,"New York City, New York",2019,7,1,0001278021,2000
+MMC,Marsh McLennan,Insurance Brokers,"New York City, New York",1987,8,31,0000062709,1905
+MET,MetLife,Life & Health Insurance,"New York City, New York",,,,0001099219,1868
+MCO,Moody's Corporation,Financial Exchanges & Data,"New York City, New York",,,,0001059556,1909
+MS,Morgan Stanley,Investment Banking & Brokerage,"New York City, New York",,,,0000895421,1935
+MSCI,MSCI,Financial Exchanges & Data,"New York City, New York",2018,4,4,0001408198,1969
+NDAQ,"Nasdaq, Inc.",Financial Exchanges & Data,"New York City, New York",2008,10,22,0001120193,1971
+NTRS,Northern Trust,Asset Management & Custody Banks,"Chicago, Illinois",,,,0000073124,1889
+PNC,PNC Financial Services,Regional Banks,"Pittsburgh, Pennsylvania",1988,4,30,0000713676,1845
+PFG,Principal Financial Group,Life & Health Insurance,"Des Moines, Iowa",2002,7,22,0001126328,1879
+PGR,Progressive Corporation,Property & Casualty Insurance,"Mayfield Village, Ohio",1997,8,4,0000080661,1937
+PRU,Prudential Financial,Life & Health Insurance,"Newark, New Jersey",2002,7,22,0001137774,1875
+RJF,Raymond James,Investment Banking & Brokerage,"St. Petersburg, Florida",2017,3,20,0000720005,1962
+RF,Regions Financial Corporation,Regional Banks,"Birmingham, Alabama",1998,8,28,0001281761,1971
+SPGI,S&P Global,Financial Exchanges & Data,"New York City, New York",,,,0000064040,1917
+SBNY,Signature Bank,Regional Banks,"New York City, New York",2021,12,20,0001288784,2001
+STT,State Street Corporation,Asset Management & Custody Banks,"Boston, Massachusetts",,,,0000093751,1792
+SIVB,SVB Financial,Regional Banks,"Santa Clara, California",2018,3,19,0000719739,1983
+SYF,Synchrony Financial,Consumer Finance,"Stamford, Connecticut",2015,11,18,0001601712,2003
+TROW,T. Rowe Price,Asset Management & Custody Banks,"Baltimore, Maryland",,,,0001113169,1937
+TRV,The Travelers Companies,Property & Casualty Insurance,"New York City, New York",2002,8,21,0000086312,1853
+TFC,Truist,Regional Banks,"Charlotte, North Carolina",1997,12,4,0000092230,1872
+USB,U.S. Bank,Diversified Banks,"Minneapolis, Minnesota",,,,0000036104,1968
+WFC,Wells Fargo,Diversified Banks,"San Francisco, California",1976,6,30,0000072971,1852
+WTW,Willis Towers Watson,Insurance Brokers,"London, United Kingdom",2016,1,5,0001140536,2016
+ZION,Zions Bancorporation,Regional Banks,"Salt Lake City, Utah",2001,6,22,0000109380,1873

@@ -1,2 +1,2 @@
-# svm-stock-returns-prediction
+# svm-long-short-strategy
 Research paper replication
